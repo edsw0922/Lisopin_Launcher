@@ -1,8 +1,8 @@
-appId: 'helioslauncher'
-productName: 'Helios Launcher'
+appId: 'lisopinlauncher'
+productName: 'Lisopin Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2026 Daniel Scalzi'
+copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2026 lisopin'
 
 asar: true
 compression: 'maximum'
@@ -49,3 +49,8 @@ linux:
 directories:
   buildResources: 'build'
   output: 'dist'
+
+publish:
+  provider: 'github'
+  owner: 'edsw0922'
+  repo: 'Lisopin_Launcher'
