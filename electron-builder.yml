@@ -1,8 +1,8 @@
-appId: 'lisopinlauncher'
-productName: 'Lisopin Launcher'
+appId: 'somgyeollauncher'
+productName: 'Somgyeol Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
-copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2026 lisopin'
+copyright: 'Copyright © 2018-2026 Daniel Scalzi, Copyright © 2026 Somgyeol'
 
 asar: true
 compression: 'maximum'
@@ -53,4 +53,4 @@ directories:
 publish:
   provider: 'github'
   owner: 'edsw0922'
-  repo: 'Lisopin_Launcher'
+  repo: 'Somgyeol_Launcher'

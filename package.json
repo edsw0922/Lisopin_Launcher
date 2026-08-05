@@ -1,13 +1,13 @@
 {
-  "name": "lisopinlauncher",
+  "name": "somgyeollauncher",
   "version": "1.1.2",
-  "productName": "Lisopin Launcher",
+  "productName": "Somgyeol Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/), Lisopin (https://github.com/edsw0922)",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/), Somgyeol (https://github.com/edsw0922)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/edsw0922/Lisopin_Launcher",
+  "homepage": "https://github.com/edsw0922/Somgyeol_Launcher",
   "bugs": {
-    "url": "https://github.com/edsw0922/Lisopin_Launcher/issues"
+    "url": "https://github.com/edsw0922/Somgyeol_Launcher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/edsw0922/Lisopin_Launcher.git"
+    "url": "https://github.com/edsw0922/Somgyeol_Launcher.git"
   }
 }

@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Lisopin Launcher"
+title = "Somgyeol Launcher"
 
 [ejs.landing]
 mediaGitHubURL = "#"
@@ -11,7 +11,7 @@ mediaYouTubeURL = "#"
 mediaDiscordURL = "https://discord.gg/b5d4qnuBpC"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/edsw0922/Lisopin_Launcher"
+sourceGithubLink = "https://github.com/edsw0922/Somgyeol_Launcher"
 supportLink = "#"
 
 [ejs.welcome]
